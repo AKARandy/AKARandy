@@ -1,8 +1,8 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alief%20Randiansyah%20Pradanaputra&fontSize=34&fontColor=fff&anim=fadeIn&desc=%22randy%22%20on%20GitHub%3A%20math%20undergrad%2C%20data%20%2F%20ML%2C%20occasional%20game%20dev&descSize=15)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alief%20Randiansyah%20Pradanaputra&fontSize=34&fontColor=fff&anim=fadeIn&desc=%22randy%22%20on%20GitHub%3A%20math%20graduate%2C%20data%20%2F%20ML%2C%20occasional%20game%20dev&descSize=15)
 
 # Hi, I'm Alief (AKARandy)
 
-Math undergraduate at Institut Teknologi Sepuluh Nopember (ITS), class of 2026. Most of my work sits in the unglamorous parts of machine learning: cleaning messy data, scraping sources that have no API, and building pipelines that catch their own drift and retrain before anyone has to notice. On quieter days I build small games in Godot.
+Mathematics graduate from Institut Teknologi Sepuluh Nopember (ITS), class of 2026. Most of my work sits in the unglamorous parts of machine learning: cleaning messy data, scraping sources that have no API, and building pipelines that catch their own drift and retrain before anyone has to notice. On quieter days I build small games in Godot.
 
 If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmail.com](mailto:aliefrandiansyahp@gmail.com).
 
