@@ -35,12 +35,12 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKARandy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKARandy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKARandy&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKARandy&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AKARandy&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=AKARandy&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ## Connect
