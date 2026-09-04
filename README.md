@@ -35,7 +35,6 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKARandy&theme=tokyonight" alt="GitHub stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKARandy&theme=tokyonight" alt="Top languages"/>
 </p>
 
