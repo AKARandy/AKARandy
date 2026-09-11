@@ -15,7 +15,9 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 | [Lights-vs-Numbers](https://github.com/AKARandy/Lights-vs-Numbers) | Data analysis, Indonesia GDP vs independent signals: official BPS GDP (42-quarter sourced dataset) against PortWatch shipping, search trends and night lights. Annotated Plotly charts, Streamlit dashboard plus static mirror ([live demo](https://akarandy.github.io/Lights-vs-Numbers/)), CI green |
 | [Self-Retraining-Model-Platform](https://github.com/AKARandy/Self-Retraining-Model-Platform) | MLOps loop where drift detection triggers automatic retraining: conditional promotion, zero-redeploy serving. Argo, MLflow, DVC, Optuna on Kubernetes. Test case: house prices |
 | [tanya-sekolah](https://github.com/AKARandy/tanya-sekolah) | "Ask the school": LLM Q&A plus tuition (SPP) prediction over Indonesian school data |
-| [Qwen-on-Kaggle-via-zrok-and-API](https://github.com/AKARandy/Qwen-on-Kaggle-via-zrok-and-API) | Serving Qwen 27B (Q4) on free Kaggle GPUs through zrok as an OpenAI-compatible API |
+| [Qwen-on-Kaggle-TPU-via-zrok-and-API](https://github.com/AKARandy/Qwen-on-Kaggle-TPU-via-zrok-and-API) | Serving Qwen 27B (BF-16) on free Kaggle TPUs through zrok as an OpenAI-compatible API |
+| [kacasaham](https://github.com/AKARandy/kacasaham) | Weekly Telegram digest scoring IDX stocks on trust and resilience, evidence link per claim. Sectors Hackathon 2026 |
+| [DAWG-ID](https://github.com/AKARandy/DAWG-ID) | Macro shock vulnerability index for 38 Indonesian provinces, choropleth portal plus dataset. Top 20, Microsoft AI Impact Challenge Datathon |
 | [InternProject-SPP_Sekolah](https://github.com/AKARandy/InternProject-SPP_Sekolah) | Predicting school tuition fees from open-source data |
 | [Education data scrapers](https://github.com/AKARandy?tab=repositories&q=scraper) | Crawlers for Indonesian open data: [Dapodikdasmen](https://github.com/AKARandy/dapodikdasmen-scraper), [PDDIKTI](https://github.com/AKARandy/pddikti-scraper), [Sekolah Kita](https://github.com/AKARandy/sekolah-kita-extractor), [Verval Yayasan](https://github.com/AKARandy/verval-yayasan-crawler), [LinkedIn jobs](https://github.com/AKARandy/linkedin-job-scraper) |
 
@@ -23,12 +25,13 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 
 **Languages**: Python · Java · GDScript (Godot) · LaTeX
 
-**ML / Data**: Machine Learning · Time Series Forecasting · Data Analysis · Web Scraping · LLMOps · OCR
+**ML / Data**: Machine Learning · Time Series Forecasting · Data Analysis · Web Scraping · LLMOps · OCR · pandas · Plotly · Streamlit
 
-**Infra**: Docker · Kubernetes · Argo Workflows · MLflow · DVC · Optuna
+**Infra**: Docker · Kubernetes · Argo Workflows · MLflow · DVC · Optuna · GitHub Actions
 
 ## Certifications
 
+- Getting Started with Docker (Simplilearn, Sep 2026)
 - Python for Data Science and Machine Learning Bootcamp (Udemy, Nov 2024)
 - Intro to Machine Learning (Kaggle, May 2023)
 - Scientific Computing with Python (freeCodeCamp, Jul 2021)
