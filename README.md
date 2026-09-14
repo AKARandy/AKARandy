@@ -12,6 +12,7 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 
 | Project | What it does |
 |---|---|
+| [QUACKO](https://github.com/AKARandy/QUACKO) | QA suite for an OCR receipt reader: Flask plus Tesseract service covered by pytest and Playwright suites (API contract, degradation, regression, UI), CI on every PR and push, reports on an [evidence site](https://akarandy.github.io/QUACKO/) |
 | [Lights-vs-Numbers](https://github.com/AKARandy/Lights-vs-Numbers) | Data analysis, Indonesia GDP vs independent signals: official BPS GDP (42-quarter sourced dataset) against PortWatch shipping, search trends and night lights. Annotated Plotly charts, Streamlit dashboard plus static mirror ([live demo](https://akarandy.github.io/Lights-vs-Numbers/)), CI green |
 | [Self-Retraining-Model-Platform](https://github.com/AKARandy/Self-Retraining-Model-Platform) | MLOps loop where drift detection triggers automatic retraining: conditional promotion, zero-redeploy serving. Argo, MLflow, DVC, Optuna on Kubernetes. Test case: house prices |
 | [tanya-sekolah](https://github.com/AKARandy/tanya-sekolah) | "Ask the school": LLM Q&A plus tuition (SPP) prediction over Indonesian school data |
