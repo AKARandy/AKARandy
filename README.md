@@ -32,6 +32,7 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 
 ## Certifications
 
+- Mathematical Data Analytics Bootcamp (Matematika ITS, Sep 2026)
 - Getting Started with Docker (Simplilearn, Sep 2026)
 - Python for Data Science and Machine Learning Bootcamp (Udemy, Nov 2024)
 - Intro to Machine Learning (Kaggle, May 2023)
