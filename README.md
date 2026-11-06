@@ -23,6 +23,19 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 | [InternProject-SPP_Sekolah](https://github.com/AKARandy/InternProject-SPP_Sekolah) | Predicting school tuition fees from open-source data; the analysis behind SEVIMA's first five K–12 school customers |
 | [Education data scrapers](https://github.com/AKARandy?tab=repositories&q=scraper) | Crawlers for Indonesian open data: [Dapodikdasmen](https://github.com/AKARandy/dapodikdasmen-scraper), [PDDIKTI](https://github.com/AKARandy/pddikti-scraper), [Sekolah Kita](https://github.com/AKARandy/sekolah-kita-extractor), [Verval Yayasan](https://github.com/AKARandy/verval-yayasan-crawler), [LinkedIn jobs](https://github.com/AKARandy/linkedin-job-scraper) |
 
+## Kaggle
+
+142 notebooks across 12 competitions — from a seven-team course project to Featured competitions with 10,148 teams (Kaggriculture), 2,259 (CAFA-6 protein function prediction) and 1,857 (MAP: charting student math misunderstandings).
+
+| Public notebook | What it does |
+|---|---|
+| [BitNet b1.58 from scratch](https://www.kaggle.com/code/aliefrandiansyah/research-trm-bitnet-1-58-multiplication) | Ternary weights {-1, 0, 1} with a straight-through estimator, custom transformer block, EMA averaging |
+| [CAFA-6 protein function prediction](https://www.kaggle.com/code/aliefrandiansyah/cafa-protein) | ESM-2 protein embeddings, GO-term hierarchy, information-accretion weighting |
+| [Mercor fraud detection](https://www.kaggle.com/code/aliefrandiansyah/mercosurar) | SE-Residual network with cost-sensitive auto-pass and auto-block thresholds |
+| [BDC internal selection](https://www.kaggle.com/code/aliefrandiansyah/mission-20-zero-bdc-internal) | Out-of-fold KNN features, prompt priors, per-target isotonic calibration; top third of 52 teams |
+| [SPR: BERT + LightGBM](https://www.kaggle.com/code/aliefrandiansyah/lgbm-optuna-bert) | Optuna-tuned hybrid with per-class threshold search on out-of-fold macro-F1 |
+| [SPR: TextCNN](https://www.kaggle.com/code/aliefrandiansyah/cnn-spr) | Text CNN with a metadata branch and learned per-class thresholds |
+
 ## Toolbox
 
 **Languages**: Python · SQL · Java · GDScript (Godot) · LaTeX
