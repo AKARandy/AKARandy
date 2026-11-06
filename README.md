@@ -15,16 +15,17 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 | [QUACKO](https://github.com/AKARandy/QUACKO) | QA suite for an OCR receipt reader: Flask plus Tesseract service covered by pytest and Playwright suites (API contract, degradation, regression, UI), CI on every PR and push, reports on an [evidence site](https://akarandy.github.io/QUACKO/) |
 | [Lights-vs-Numbers](https://github.com/AKARandy/Lights-vs-Numbers) | Data analysis, Indonesia GDP vs independent signals: official BPS GDP (42-quarter sourced dataset) against PortWatch shipping, search trends and night lights. Annotated Plotly charts, Streamlit dashboard plus static mirror ([live demo](https://akarandy.github.io/Lights-vs-Numbers/)), CI green |
 | [Self-Retraining-Model-Platform](https://github.com/AKARandy/Self-Retraining-Model-Platform) | MLOps loop where drift detection triggers automatic retraining: conditional promotion, zero-redeploy serving. Argo, MLflow, DVC, Optuna on Kubernetes. Test case: house prices |
-| [tanya-sekolah](https://github.com/AKARandy/tanya-sekolah) | "Ask the school": LLM Q&A plus tuition (SPP) prediction over Indonesian school data |
+| [cek-dulu](https://github.com/AKARandy/cek-dulu) | Open eKYC for Indonesian ID cards: document QA with explicit rejection reasons, PaddleOCR plus Florence-2 field extraction, NIK cross-field validation, face similarity, redaction on output. CPU-only, CI on every push |
+| [tanya-sekolah](https://github.com/AKARandy/tanya-sekolah) | "Ask the school": LLM Q&A plus tuition (SPP) prediction over 2,269 Indonesian schools, combining guarded read-only SQL, multilingual RAG, and a CatBoost tuition model |
 | [Qwen-on-Kaggle-TPU-via-zrok-and-API](https://github.com/AKARandy/Qwen-on-Kaggle-TPU-via-zrok-and-API) | Serving Qwen 27B (BF-16) on free Kaggle TPUs through zrok as an OpenAI-compatible API |
 | [kacasaham](https://github.com/AKARandy/kacasaham) | Weekly Telegram digest scoring IDX stocks on trust and resilience, evidence link per claim. Sectors Hackathon 2026 |
 | [DAWG-ID](https://github.com/AKARandy/DAWG-ID) | Macro shock vulnerability index for 38 Indonesian provinces, choropleth portal plus dataset. Top 20, Microsoft AI Impact Challenge Datathon |
-| [InternProject-SPP_Sekolah](https://github.com/AKARandy/InternProject-SPP_Sekolah) | Predicting school tuition fees from open-source data |
+| [InternProject-SPP_Sekolah](https://github.com/AKARandy/InternProject-SPP_Sekolah) | Predicting school tuition fees from open-source data; the analysis behind SEVIMA's first five K–12 school customers |
 | [Education data scrapers](https://github.com/AKARandy?tab=repositories&q=scraper) | Crawlers for Indonesian open data: [Dapodikdasmen](https://github.com/AKARandy/dapodikdasmen-scraper), [PDDIKTI](https://github.com/AKARandy/pddikti-scraper), [Sekolah Kita](https://github.com/AKARandy/sekolah-kita-extractor), [Verval Yayasan](https://github.com/AKARandy/verval-yayasan-crawler), [LinkedIn jobs](https://github.com/AKARandy/linkedin-job-scraper) |
 
 ## Toolbox
 
-**Languages**: Python · Java · GDScript (Godot) · LaTeX
+**Languages**: Python · SQL · Java · GDScript (Godot) · LaTeX
 
 **ML / Data**: Machine Learning · Time Series Forecasting · Data Analysis · Web Scraping · LLMOps · OCR · pandas · Plotly · Streamlit
 
@@ -51,6 +52,7 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alief--randiansyah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alief-randiansyah/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-aliefrandiansyah-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/aliefrandiansyah)
 [![Instagram](https://img.shields.io/badge/Instagram-alief__randi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alief_randi/)
 [![Email](https://img.shields.io/badge/Email-aliefrandiansyahp%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aliefrandiansyahp@gmail.com)
 
