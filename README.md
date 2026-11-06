@@ -32,7 +32,7 @@ Selected public notebooks:
 | [BitNet b1.58 from scratch](https://www.kaggle.com/code/aliefrandiansyah/research-trm-bitnet-1-58-multiplication) | Ternary weights {-1, 0, 1} with a straight-through estimator, custom transformer block, EMA averaging |
 | [CAFA-6 protein function prediction](https://www.kaggle.com/code/aliefrandiansyah/cafa-protein) | ESM-2 protein embeddings, GO-term hierarchy, information-accretion weighting |
 | [Mercor fraud detection](https://www.kaggle.com/code/aliefrandiansyah/mercosurar) | SE-Residual network with cost-sensitive auto-pass and auto-block thresholds |
-| [BDC internal selection](https://www.kaggle.com/code/aliefrandiansyah/mission-20-zero-bdc-internal) | Out-of-fold KNN features, prompt priors, per-target isotonic calibration |
+| [IELTS essay scoring](https://www.kaggle.com/code/aliefrandiansyah/mission-20-zero-bdc-internal) | Multi-target band-score prediction from essays: discourse-marker analysis, out-of-fold KNN features, prompt priors, per-target isotonic calibration |
 | [SPR: BERT + LightGBM](https://www.kaggle.com/code/aliefrandiansyah/lgbm-optuna-bert) | Optuna-tuned hybrid with per-class threshold search on out-of-fold macro-F1 |
 | [SPR: TextCNN](https://www.kaggle.com/code/aliefrandiansyah/cnn-spr) | Text CNN with a metadata branch and learned per-class thresholds |
 
