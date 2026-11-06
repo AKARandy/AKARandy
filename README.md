@@ -2,7 +2,7 @@
 
 # Hi, I'm Alief (AKARandy)
 
-Mathematics graduate from Institut Teknologi Sepuluh Nopember (ITS), class of 2026. Most of my work sits in the unglamorous parts of machine learning: cleaning messy data, scraping sources that have no API, and building pipelines that catch their own drift and retrain before anyone has to notice. At Pusdatin, the Ministry of Transportation's data centre, that means ETL: collecting airline submissions, validating them against the reporting guideline, and loading the results into MySQL on a monthly schedule. On quieter days I build small games in Godot.
+Mathematics graduate from Institut Teknologi Sepuluh Nopember (ITS), class of 2026. Most of my work sits in the unglamorous parts of machine learning: cleaning messy data, scraping sources that have no API, and building pipelines that catch their own drift and retrain before anyone has to notice. On quieter days I build small games in Godot.
 
 If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmail.com](mailto:aliefrandiansyahp@gmail.com).
 
@@ -39,7 +39,7 @@ Selected public notebooks:
 
 **Languages**: Python · SQL · Java · GDScript (Godot) · LaTeX
 
-**ML / Data**: Machine Learning · Time Series Forecasting · Data Analysis · ETL · Web Scraping · LLMOps · OCR · pandas · Plotly · Streamlit
+**ML / Data**: Machine Learning · Time Series Forecasting · Data Analysis · Web Scraping · LLMOps · OCR · pandas · Plotly · Streamlit
 
 **Infra**: Docker · Kubernetes · Argo Workflows · MLflow · DVC · Optuna · GitHub Actions
 
