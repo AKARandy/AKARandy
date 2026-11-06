@@ -33,8 +33,7 @@ Selected public notebooks:
 | [CAFA-6 protein function prediction](https://www.kaggle.com/code/aliefrandiansyah/cafa-protein) | ESM-2 protein embeddings, GO-term hierarchy, information-accretion weighting |
 | [Mercor fraud detection](https://www.kaggle.com/code/aliefrandiansyah/mercosurar) | SE-Residual network with cost-sensitive auto-pass and auto-block thresholds |
 | [IELTS essay scoring](https://www.kaggle.com/code/aliefrandiansyah/mission-20-zero-bdc-internal) | Multi-target band-score prediction from essays: discourse-marker analysis, out-of-fold KNN features, prompt priors, per-target isotonic calibration |
-| [SPR: BERT + LightGBM](https://www.kaggle.com/code/aliefrandiansyah/lgbm-optuna-bert) | Optuna-tuned hybrid with per-class threshold search on out-of-fold macro-F1 |
-| [SPR: TextCNN](https://www.kaggle.com/code/aliefrandiansyah/cnn-spr) | Text CNN with a metadata branch and learned per-class thresholds |
+| [Mammography report classification](https://www.kaggle.com/code/aliefrandiansyah/lgbm-optuna-bert) | Two architectures on one task: a BERT + LightGBM hybrid tuned with Optuna and per-class out-of-fold threshold search, and a [TextCNN](https://www.kaggle.com/code/aliefrandiansyah/cnn-spr) with a metadata branch |
 
 ## Toolbox
 
