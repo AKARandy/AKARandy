@@ -25,7 +25,7 @@ If you want to talk data, scraping or MLOps, reach me at [aliefrandiansyahp@gmai
 
 ## Kaggle
 
-142 notebooks across 12 competitions. Six are public:
+Selected public notebooks:
 
 | Public notebook | What it does |
 |---|---|
